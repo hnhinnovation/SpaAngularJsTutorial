@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html ng-app="StudentModule">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>@ViewBag.Title</title>
+	@Styles.Render("~/Content/css")
+	@Scripts.Render("~/bundles/modernizr")
+	<script src="~/Scripts/angular.js"></script>
+	<script src="~/Scripts/angular-route.js"></script>
+	<script src="~/Scripts/MyScripts/Module.js"></script>
+	<script src="~/Scripts/MyScripts/Service.js"></script>
+	<script src="~/Scripts/MyScripts/Controller.js"></script>
+</head>
+<body>
+	<div class="container body-content">
+		@RenderBody()
+		<hr />
+		<footer>
+			<p>&copy; @DateTime.Now.Year - Student List CRUD operation</p>
+		</footer>
+	</div>
+
+	@Scripts.Render("~/bundles/jquery")
+	@Scripts.Render("~/bundles/bootstrap")
+	@RenderSection("scripts", required: false)
+</body>
+</html>

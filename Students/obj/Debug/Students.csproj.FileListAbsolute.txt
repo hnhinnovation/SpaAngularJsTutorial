@@ -1,0 +1,122 @@
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Students.dll.config
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Students.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Students.pdb
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Antlr3.Runtime.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\EntityFramework.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\EntityFramework.SqlServer.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Newtonsoft.Json.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Owin.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Net.Http.Formatting.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Helpers.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Http.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Http.WebHost.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Mvc.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Optimization.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Razor.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\WebGrease.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Net.Http.Formatting.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Http.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Http.WebHost.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Helpers.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Mvc.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Optimization.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.Razor.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Antlr3.Runtime.pdb
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Newtonsoft.Json.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\EntityFramework.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\EntityFramework.SqlServer.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\obj\Debug\Students.dll
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\obj\Debug\Students.pdb
+C:\Projects\Visual Studio 2013\HNH\Development\SpaAngularJsTutorial\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Students.dll.config
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Students.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Students.pdb
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Antlr3.Runtime.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\EntityFramework.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\EntityFramework.SqlServer.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Google.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Web.Infrastructure.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Newtonsoft.Json.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Owin.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Net.Http.Formatting.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Helpers.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Http.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Http.WebHost.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Mvc.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Optimization.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Razor.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Deployment.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Razor.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\WebGrease.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Net.Http.Formatting.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Http.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Http.WebHost.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Helpers.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Mvc.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Optimization.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.Razor.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Deployment.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\System.Web.WebPages.Razor.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Antlr3.Runtime.pdb
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Newtonsoft.Json.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\EntityFramework.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\EntityFramework.SqlServer.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Google.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\obj\Debug\Students.csprojResolveAssemblyReference.cache
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\obj\Debug\Students.dll
+C:\Data\CodeCamp\SpaAngularJsTutorial\Students\obj\Debug\Students.pdb

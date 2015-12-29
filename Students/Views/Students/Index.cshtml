@@ -1,0 +1,80 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style type="text/css">
+	.tablehover {
+		cursor: pointer;
+	}
+</style>
+
+<div class="container">
+	<div class="row" ng-controller="StudentController">
+		<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+			<form>
+				<div class="form-group">
+					<label for="Id">Id</label>
+					<input type="text" class="form-control" id="Id" placeholder="" readonly ng-model="Id" />
+				</div>
+
+				<div class="form-group">
+					<label for="StudentName">Student Name</label>
+					<input type="text" class="form-control" id="StudentName" placeholder="Enter student Name" required ng-model="StudentName" />
+				</div>
+
+				<div class="form-group">
+					<label for="StudentRollNo">Student Roll #</label>
+					<input type="text" class="form-control" id="StudentRollNo" placeholder="Enter student roll #" required ng-model="StudentRollNo" />
+				</div>
+
+				<div class="form-group">
+					<label for="StudentDepartment">Student Department</label>
+					<input type="text" class="form-control" id="StudentDepartment" placeholder="Enter student department" required ng-model="StudentDepartment" />
+				</div>
+
+				<div class="form-group">
+					<label for="StudentBatchNo">Student Batch #</label>
+					<input type="text" class="form-control" id="StudentBatchNo" placeholder="Enter student batch #" required ng-model="StudentBatchNo" />
+				</div>
+
+				<div class="form-group">
+					<label for="StudentYear">Student Year</label>
+					<input type="text" class="form-control" id="StudentYear" placeholder="Enter student year" required ng-model="StudentYear" />
+				</div>
+
+				<button type="submit" class="btn btn-info" id="save" value="Save" ng-click="save()">Save</button>
+				<button type="submit" class="btn btn-info" id="delete" value="Delete" ng-click="delete()">Delete</button>
+				<button type="submit" class="btn btn-info" id="new" value="Reset" ng-click="clear()">Reset</button>
+			</form>
+		</div>
+
+		<div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
+			<table class="table tablehover text-primary">
+				<caption>Student List</caption>
+				<thead>
+					<tr>
+						<th>Id</th>
+						<th>Student Name</th>
+						<th>Student Roll No</th>
+						<th>Student Department</th>
+						<th>Student Batch No</th>
+						<th>Student Year</th>
+					</tr>
+				</thead>
+				<tbody ng-repeat="Std in Students">
+					<tr ng-click="get(Std)">
+						<td><span>{{ Std.Id }}</span></td>
+						<td><span>{{ Std.StudentName }}</span></td>
+						<td><span>{{ Std.StudentRollNo }}</span></td>
+						<td><span>{{ Std.StudentDepartment }}</span></td>
+						<td><span>{{ Std.StudentBatchNo }}</span></td>
+						<td><span>{{ Std.StudentYear }}</span></td>
+					</tr>
+				</tbody>
+			</table>
+			<p class="text-danger">{{ Message }}</p>
+		</div>
+	</div>
+</div>
